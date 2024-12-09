@@ -1,0 +1,14 @@
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\bin\Release\net8.0\CookySpy.exe
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\bin\Release\net8.0\CookySpy.deps.json
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\bin\Release\net8.0\CookySpy.runtimeconfig.json
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\bin\Release\net8.0\CookySpy.dll
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\bin\Release\net8.0\CookySpy.pdb
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net8.0\CookySpy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net8.0\CookySpy.AssemblyInfoInputs.cache
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net8.0\CookySpy.AssemblyInfo.cs
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net8.0\CookySpy.csproj.CoreCompileInputs.cache
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net8.0\CookySpy.dll
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net8.0\refint\CookySpy.dll
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net8.0\CookySpy.pdb
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net8.0\CookySpy.genruntimeconfig.cache
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net8.0\ref\CookySpy.dll

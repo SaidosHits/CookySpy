@@ -1,0 +1,4 @@
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net5.0\CookySpy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net5.0\CookySpy.AssemblyInfoInputs.cache
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net5.0\CookySpy.AssemblyInfo.cs
+C:\Users\SETUP GAME\source\repos\CookySpy\CookySpy\obj\Release\net5.0\CookySpy.csproj.CoreCompileInputs.cache
